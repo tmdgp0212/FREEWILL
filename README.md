@@ -2,7 +2,7 @@
 
  프리윌 홈페이지를 본 떠 제작되었습니다.
 
-원본사이트 : [FREEWILL](https://freewill.cc/)
+원본사이트 : [FREEWILL](https://freewill.cc/)  
 데모사이트 : [DEMO](https://tmdgp0212.github.io/FREEWILL/)
 
 ## 🧡프로젝트 안내
@@ -43,7 +43,7 @@
 
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/112364408/211966850-01a2445b-b7ab-4177-862f-6cb6f4702bac.gif)
 
-각 아이템은 스크롤에 반응하여 화면에 노출이 되는 순간 서서히 나타나는 애니메이션이 동작합니다
+각 아이템은 스크롤에 반응하여 화면에 노출이 되는 순간 서서히 나타나는 애니메이션이 동작합니다  
 이 부분은 wow 라이브러리를 사용하여 구현하였습니다
 
 
